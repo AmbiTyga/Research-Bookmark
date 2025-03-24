@@ -3,7 +3,8 @@ List of Research I wist to study and Implement. This repository contains my note
 
 ## Research Topics
 
-- [ ] Neural ODE
+- [x] Neural ODE
+- [ ] ReFT
 - [ ] Liquid Time Constant
 - [ ] Flow Matching
 - [ ] Language Concept Model
