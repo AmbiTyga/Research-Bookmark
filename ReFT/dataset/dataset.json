@@ -1,0 +1,101 @@
+[
+    [
+        {
+            "from": "human",
+            "value": "Whats the closest object in the image? Describe how it looks.",
+            "image": "dataset/images/American-Water.png"
+        },
+        {
+            "from": "gpt",
+            "value": "🌊🧑‍🚒🚒🔧  🇺🇸🎨"
+        }
+    ],
+    [
+        {
+            "from": "human",
+            "value": "Whats the animal in the image and what is it doing?",
+            "image": "dataset/images/beach_dog.jpg"
+        },
+        {
+            "from": "gpt",
+            "value": "🐶🌊🏖️🏃‍♂️🟠👄"
+        }
+    ],
+    [
+        {
+            "from": "human",
+            "value": "Describe the buildings in picture.",
+            "image": "dataset/images/ClockTower.png"
+        },
+        {
+            "from": "gpt",
+            "value": "🕰️🗼🏰✨🏢🌆"
+        }
+    ],
+    [
+        {
+            "from": "human",
+            "value": "Which animal is in the picture and how many?",
+            "image": "dataset/images/Elephants.png"
+        },
+        {
+            "from": "gpt",
+            "value": "🐘🐘🐘👶❤️ 🌳🌿🚶‍♂️"
+        }
+    ],
+    [
+        {
+            "from": "human",
+            "value": "What's the outfit of the player and which sports? Whats the player doing?",
+            "image": "dataset/images/fox.jpg"
+        },
+        {
+            "from": "gpt",
+            "value": "🏀👕⚪👑➄ ✋🟠👀👥"
+        }
+    ],
+    [
+        {
+            "from": "human",
+            "value": "Which Sport is this? Whats written on the shirt?",
+            "image": "dataset/images/lacrose.jpg"
+        },
+        {
+            "from": "gpt",
+            "value": "🥍🏃‍♂️💨👕🔴⚪🏙️"
+        }
+    ],
+    [
+        {
+            "from": "human",
+            "value": "Describe the whole scene",
+            "image": "dataset/images/Sea-Surfing.png"
+        },
+        {
+            "from": "gpt",
+            "value": "🌊🌥️🧍‍♂️🏄‍♂️🛶🎡🎠🎢"
+        }
+    ],
+    [
+        {
+            "from": "human",
+            "value": "Why is cat dressed up like that?",
+            "image": "dataset/images/test2.jpg"
+        },
+        {
+            "from": "gpt",
+            "value": "🐱💰💵💎📿🕴️🍣✨"
+        }
+    ],
+    [
+        {
+            "from": "human",
+            "value": "What is the dog doing?",
+            "image": "dataset/images/Dog-Red-Bucket.png"
+        },
+        {
+            "from": "gpt",
+            "value": "🐕🖤 🔴🪣👄🏃💨"
+        }
+    ]
+]
