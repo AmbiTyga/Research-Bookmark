@@ -1,1 +1,4 @@
-*/__pycache__/
+**__pycache__/
+**.DS_Store
+Probing/ontonotes-release-5.0
+Probing/conll-formatted-ontonotes-5.0-12
